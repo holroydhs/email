@@ -37,3 +37,5 @@
     text-align: center;
     padding-top: 25px;
   }
+  td a { text-decoration: underline; color:blue; }
+  td a:visited { text-decoration: none; color:blue; }
