@@ -1,5 +1,5 @@
 # Useful resources
-Just some useful stuff form maintaining and automating this site
+Just some useful stuff for maintaining and automating this site
 
 ## VSCODE Find/Replce Emails
 Find: `<td>(.*?)@det.nsw.edu.au`
